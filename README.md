@@ -1,4 +1,4 @@
 DungeonProject
 ==============
 
-Basic dungeon crawler
+2 player dungeon thing
